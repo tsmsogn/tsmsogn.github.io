@@ -1,0 +1,11 @@
+# Site settings
+title: u.find.any?
+email: tsmsogn@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://tsmsogn.github.io/" # the base hostname & protocol for your site
+twitter_username: tsmsogn
+github_username:  tsmsogn
+
+# Build settings
+markdown: kramdown
