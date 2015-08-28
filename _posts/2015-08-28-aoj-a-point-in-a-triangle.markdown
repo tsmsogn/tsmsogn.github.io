@@ -4,7 +4,7 @@ title:  "AOJ: A Point in a Triangle"
 date:   2015-08-28 10:09:20
 categories: aoj
 ---
-[A Point in a Triangle](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0008)
+[A Point in a Triangle](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0012)
 
 点P が ΔABC の内部に存在するなら、ΔABC の面積（S）、ΔABP の面積（S1）、ΔBCP の面積（S2）、ΔCAP の面積（S3）には `S = S1 + S2 + S3` が成り立つ。
 
