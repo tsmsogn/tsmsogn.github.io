@@ -24,7 +24,7 @@ categories: reading
 - 文字コードを複雑化させるのは、過去の経緯の積み重ねと、文字そのものの難しさがあるため
 - ISO/IEC 646 を元に各国版の ISO/IEC 646 が作成され、日本では JIS X 0201 として標準化された
 - 複製言語が扱える ISO/IEC 2022 が作られる。ISO/IEC では CL/GL、CR/GR に分けられ、必要に応じて GL や GR を入れ替えることができる
-_ ISO/IEC 2022 はエスケープシーケンスを使って、GL、GR の切り替えを行う
+- ISO/IEC 2022 はエスケープシーケンスを使って、GL、GR の切り替えを行う
 - JIS X 0208 を ASCII と組み合わせて使うために、Shift_JIS などの符号方式がある
 - EUC-JP や IS-2022-JP は、ISO/IEC 2022 に整合的で、Shift_JIS はそうでない
 - ISO/IEC 8859-1 = Latin-1
