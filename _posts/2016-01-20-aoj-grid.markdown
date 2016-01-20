@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "AOJ: Grid"
+date:   2016-01-20 15:54:43
+categories: aoj
+---
+[Grid](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0151)
+
+[http://judge.u-aizu.ac.jp/onlinejudge/review.jsp?rid=984479#1](http://judge.u-aizu.ac.jp/onlinejudge/review.jsp?rid=984479#1) を写経。。。
+
+参考になった所
+
+- 長さのカウントのリセット
+- 対角線の査定
