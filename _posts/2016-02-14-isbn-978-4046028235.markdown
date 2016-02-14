@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "100円のコーラを1000円で売る方法"
+date:   2016-02-14 10:37:43 +0900
+categories: reading
+---
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">回転寿司で 180円のメロンソーダ飲んで、「これこそ 100円のコーラを 1000円で売るってやつだね」って言ってる人がいる</p>&mdash; tsmsogn (@tsmsogn) <a href="https://twitter.com/tsmsogn/status/697995762995572736">2016, 2月 12</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+「そのまま過ぎない？」って思ったので、実際に読んでみた。
+
+内容はというとマーケティングの入門書。
+
+会計ソフトを作っている会社のセールス担当だった宮川久美子が製品開発に異動し、コンセプト、戦術、流通チャンネルという一連の流れのマーケティングを学び、製品開発を成功させるというお話。
+
+37シグナルズの「小さなチーム、大きな仕事」のような感じ。
+
+その人がどういう意味でそう言っていたのかわからないけれど、本の中にホテルで高価なコーラーを頼むくだりがあった。
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">「100円のコーラを1000円で売る方法」そのものだった</p>&mdash; tsmsogn (@tsmsogn) <a href="https://twitter.com/tsmsogn/status/698685054990491648">2016, 2月 14</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Notes
+
+- マーケットリーダーにマーケットチャレンジャーが価格で勝負することはご法度
+- バリュープロポジションとは、顧客が望んでいて、競合他社が真似できない、自社が提供できる価値
+- 製品志向から市場志向で、大きく顧客層が広がることがある
+- カスタマー・マイオピアからの脱却
