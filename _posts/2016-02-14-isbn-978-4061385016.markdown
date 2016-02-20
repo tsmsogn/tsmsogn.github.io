@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "武器としての決断思考"
+date:   2016-02-14 23:03:17 +0900
+categories: reading
+---
+ディベート講座本
+
+僕たちは常に判断に迫られている。その時々でよりよい判断をするためにディベートのメリット・デメリットを挙げて、すべきかすべきでないか判断しましょう。
+
+メリットの条件
+
+- 内因性（なんらかの問題があること）
+- 重要性（その問題が深刻であること）
+- 解決性（問題がその行動によって解決すること）
+
+デメリットの条件
+
+- 発生過程（議題の行動をとったときに、新たな課題が発生する過程）
+- 深刻性（その問題が深刻であること）
+- 固有性（現状ではその問題が生じていないこと）
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">財布を会社に忘れた</p>&mdash; tsmsogn (@tsmsogn) <a href="https://twitter.com/tsmsogn/status/699190853655343104">2016, 2月 15</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+`To be, or not to be.`
+
+という言葉が頭によぎるも、そのまま帰宅、、、
