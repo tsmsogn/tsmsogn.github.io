@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "http_status_code_testを作った"
+title:  "シェルスクリプトでHTTPステータスコードをチェックできるものを作った"
 date:   2016-09-04 23:37:19 +0900
 categories: shell
 ---
-その名の通り、シェルスクリプトで HTTPステータスコードをテストできるものを作った。
+シェルスクリプトで HTTPステータスコードをテストできるものを作った。
+
+[http_status_code_test](https://github.com/tsmsogn/http_status_code_test)
 
 ## 使用例
 
