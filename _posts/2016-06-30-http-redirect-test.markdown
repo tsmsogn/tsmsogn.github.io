@@ -12,9 +12,9 @@ categories: shell
 
 ## 使い方
 
-<pre>
+{% highlight shell %}
 ./http_redirect_test.sh [OPTIONS...] source_path destination_path
-</pre>
+{% endhighlight %}
 
 実行結果は、`$?` で取れます。`0` で成功、`1` で失敗です。
 
