@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "http_redirect_testの紹介"
+title:  "シェルスクリプトでリダイレクトのテストができるものを作った"
 date:   2016-06-30 15:57:21 +0900
 categories: shell
 ---
