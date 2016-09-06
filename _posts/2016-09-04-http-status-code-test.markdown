@@ -6,7 +6,7 @@ categories: shell
 ---
 シェルスクリプトで HTTPステータスコードをテストできるものを作った。
 
-[http_status_code_test](https://github.com/tsmsogn/http_status_code_test)
+[http_status_code_test.sh](https://github.com/tsmsogn/http_status_code_test.sh)
 
 ## 使用例
 
