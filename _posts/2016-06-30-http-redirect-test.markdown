@@ -4,11 +4,11 @@ title:  "シェルスクリプトでリダイレクトのテストができる�
 date:   2016-06-30 15:57:21 +0900
 categories: shell
 ---
-シェルスクリプトでリダイレクトテストができるツールを作りました。その名も `http_redirect_test` というそのままの命名。
+シェルスクリプトでリダイレクトテストができるツールを作りました。その名も `http_redirect_test.sh` というそのままの命名。
 
 リダイレクトだけじゃなく、ステータスコード `200`、`404` と `410` にも対応しています。
 
-[http_redirect_test](https://github.com/tsmsogn/http_redirect_test)
+[http_redirect_test.sh](https://github.com/tsmsogn/http_redirect_test.sh)
 
 ## 使い方
 

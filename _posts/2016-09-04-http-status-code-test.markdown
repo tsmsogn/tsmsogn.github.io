@@ -20,4 +20,4 @@ categories: shell
 
 ## まとめ
 
-以前作った [http_redirect_test](https://github.com/tsmsogn/http_redirect_test) の 2番煎じです。orz
+以前作った [http_redirect_test.sh](https://github.com/tsmsogn/http_redirect_test.sh) の 2番煎じです。orz
