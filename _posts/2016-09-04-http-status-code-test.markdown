@@ -11,7 +11,7 @@ categories: shell
 ## 使用例
 
 {% highlight shell %}
-./http_redirect_test.sh --status 200 http://tsmsogn.github.io/
+./http_status_code_test.sh --status 200 http://tsmsogn.github.io/
 {% endhighlight %}
 
 実行結果は、`$?` で取れます。`0` で成功、`1` で失敗です。
